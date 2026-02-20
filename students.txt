@@ -1,0 +1,5 @@
+Terry, 2345, Gemini
+Naima, 0987, ChatGPT
+Faith, 2567, Deepseek
+Nezuko, 2586, TurboAI
+Zenitsu, 4567, Perplexity
